@@ -1,0 +1,4 @@
+Se mi da il numero di righe non controllo di arrivare all'eof()
+
+Spesso mi dicono loro le funzioni da usare
+mi dicono che controlli fare /non fare
