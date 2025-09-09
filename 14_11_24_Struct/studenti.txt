@@ -1,0 +1,7 @@
+Marco Malavolta 1 20
+Paolo Cannone 2 22
+Luca Verdi 3 24
+Andrea Rossi 4 30
+Chiara Bordignon 5 28
+Daniele Vella 6 25
+Anto Anice 7 0
